@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/System/Grade_School_Calculation.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+E:/System/Stack&Queue.h
+
+E:/System/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Stack&Queue.h
+E:/System/Stack&Queue.h
+Grade_School_Calculation.h
+E:/System/Grade_School_Calculation.h
+
